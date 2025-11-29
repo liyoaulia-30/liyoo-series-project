@@ -4,15 +4,15 @@
     padding: 0;
 }
 header{
-    background-color: #04461e;
+    background-color: #6aa582;
     color: #1b1a1a;
     text-align: center;
     padding: 20px;
 }
 body {
     font-family: 'inter', sans-serif;
-    color: rgb(139, 30, 202);
-    background-color: #2bdaa5;
+    color: rgb(109, 185, 230);
+    background-color: #6aac98;
     line-height: 1.6;
     background-size: 163;
     padding: 10px;
@@ -39,7 +39,7 @@ p{
 }
 
 article{
-    background-color: rgb(218, 18, 168);
+    background-color: rgb(231, 140, 208);
     border: 1px solid rgb(14, 7, 7);
     padding: 16px;
     margin-bottom: 20px;
