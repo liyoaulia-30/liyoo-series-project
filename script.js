@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const header = document.querySelector("header");
     const firstParagraph =  document.querySelector("article p")
 
-    title.textContent = "💕Belajar Javascrip  interaktif baru - interakif pertama!💕";
-    title.addEventListener("click" , () => {
+    title.textContent = "💕Belajar Javascrip  💕";
+    title.addEventListener("click" , () => {interaktif baru - interakif pertama!
         nav.classList.toggle("show-nav");
     });
 
